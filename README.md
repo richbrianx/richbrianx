@@ -1,5 +1,6 @@
-🟢 Hi im richbrianx, a beginner light node testnet from 🇮🇩 
-📫 Find me Twitter (X) : @vincezo29
+- 🟢 Hi im richbrianx, a beginner light node testnet from Indonesia
+- Twitter (X) : @vincezo29
+- Discord : annabellexxx
 
 
 <!---
